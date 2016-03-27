@@ -1,4 +1,4 @@
-package com.datastructures.creditcard;
+package net.datastructures.creditcard;
 
 import java.util.ArrayList;
 import java.util.List;

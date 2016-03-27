@@ -1,4 +1,4 @@
-package com.datastructures.helloworld;
+package net.datastructures.helloworld;
 
 public class HelloWorld {
 
